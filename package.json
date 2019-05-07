@@ -1,0 +1,33 @@
+{
+  "name": "leventext",
+  "version": "1.0.0",
+  "description": "levenshtein text comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavahatnuke/leventext.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "text",
+    "comparison"
+  ],
+  "author": "slava hatnuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavahatnuke/leventext/issues"
+  },
+  "homepage": "https://github.com/slavahatnuke/leventext#readme",
+  "dependencies": {
+    "fast-levenshtein": "^2.0.6",
+    "js-combinatorics": "^0.5.4",
+    "n-gram": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
