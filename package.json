@@ -1,6 +1,6 @@
 {
   "name": "leventext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "levenshtein text comparison",
   "main": "index.js",
   "scripts": {
